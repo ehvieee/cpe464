@@ -1,0 +1,4 @@
+Jimmy Wen 3pm
+
+flag = 32   FILE OK ACK from rcopy to server during setup phase
+flag = 33   EOF ACK from rcopy to server during teardown phase
